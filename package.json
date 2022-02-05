@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_discord_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HammadKhan70/NodeJs_discord_chatBot.git"
+  },
+  "author": "Hammad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HammadKhan70/NodeJs_discord_chatBot/issues"
+  },
+  "homepage": "https://github.com/HammadKhan70/NodeJs_discord_chatBot#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
