@@ -1,4 +1,4 @@
-# discord_chatBot
+# Node JS Discord ChatBot
 
 First of all we have to create a discord bot.For creating the bot go to https://discord.com/developers 
 and create or sign up with the developer account.
